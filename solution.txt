@@ -8,7 +8,7 @@ adb install /001_ToDoList-master/app/build/outputs/apk/debug/app-debug.apk
 adb shell pm list packages | grep todolist
 
 4. Сделать скриншот экрана с запущенным приложением ToDoList и сразу скопировать его на компьютер в одной команде.
-adb shell screencap  -p /storage/emulated/0/DCIM/Screenshots/screenshot_1.jpg
+adb shell screencap -p /storage/emulated/0/DCIM/Screenshots/screenshot_1.jpg
 adb pull /storage/emulated/0/DCIM/Screenshots/screenshot_1.jpg /Users/marin/OneDrive/Documents/QA_course/ADB/screenshot_1.jpg
 
 5. Вывести в консоль логи приложения ToDoList.
