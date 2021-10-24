@@ -12,6 +12,7 @@ adb shell screencap -p /storage/emulated/0/DCIM/Screenshots/screenshot_1.jpg
 adb pull /storage/emulated/0/DCIM/Screenshots/screenshot_1.jpg /Users/marin/OneDrive/Documents/QA_course/ADB/screenshot_1.jpg
 
 5. Вывести в консоль логи приложения ToDoList.
+adb logcat | grep -rnw "todolist"
 
 6. Скопировать логи приложения ToDoList на компьютер.
 
