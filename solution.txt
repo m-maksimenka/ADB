@@ -15,6 +15,7 @@ adb pull /storage/emulated/0/DCIM/Screenshots/screenshot_1.jpg /Users/marin/OneD
 adb logcat | findstr -rnw "com.android.todolist"
 
 6. Скопировать логи приложения ToDoList на компьютер.
+adb logcat | findstr -rnw "com.android.todolist" > /Users/marin/OneDrive/Documents/QA_course/ADB/todolist.log
 
 7. Удалить приложение ToDoList из телефона через ADB.
 

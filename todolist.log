@@ -1,0 +1,300 @@
+32238:10-25 00:22:48.529  2078  2093 I ActivityManager: Force stopping com.android.todolist appid=10061 user=0: deletePackageX
+32239:10-25 00:22:49.263  2078  2107 I ActivityManager: Force stopping com.android.todolist appid=10061 user=0: pkg removed
+32242:10-25 00:22:49.312  2078  2093 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000011 (has extras) } to com.lbe.security.miui/com.lbe.security.service.BootReceiver
+32243:10-25 00:22:49.312  2078  2093 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.google.android.apps.photos/com.google.android.libraries.social.peoplekit.thirdparty.viewcontrollers.ThirdPartyReceiver
+32246:10-25 00:22:49.326  2078  2093 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.microsoft.office.excel/com.microsoft.office.asyncdatapointreporting.InstallBroadcastReceiver
+32247:10-25 00:22:49.326  2078  2093 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.microsoft.office.excel/com.microsoft.office.notification.SystemBroadcastReceiver
+32252:10-25 00:22:49.499  2078  2278 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000011 (has extras) } to com.android.vending/com.google.android.finsky.packagemanager.impl.PackageMonitorReceiverImpl$RegisteredReceiver
+32253:10-25 00:22:49.501  2078  2093 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000011 (has extras) } to com.android.vending/com.google.android.finsky.instantapps.appmanagement.InstantAppRemoveMonitor
+32254:10-25 00:22:49.502  2078  2093 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000011 (has extras) } to com.facebook.services/com.facebook.oxygen.services.fbns.RegisteredMqttSystemBroadcastReceiver
+32255:10-25 00:22:49.502  2078  2093 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000011 (has extras) } to com.google.android.apps.maps/com.google.android.libraries.social.peoplekit.thirdparty.viewcontrollers.ThirdPartyReceiver
+32256:10-25 00:22:49.502  2078  2093 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000011 (has extras) } to com.google.android.gms/.games.chimera.GamesSystemBroadcastReceiverProxy
+32257:10-25 00:22:49.502  2078  2093 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000011 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+32258:10-25 00:22:49.502  2078  2093 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000011 (has extras) } to com.google.android.googlequicksearchbox/com.google.android.apps.gsa.googlequicksearchbox.GelStubAppWatcher
+32259:10-25 00:22:49.502  2078  2093 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000011 (has extras) } to com.miui.audioeffect/com.android.musicfx.Compatibility$Receiver
+32260:10-25 00:22:49.502  2078  2093 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000011 (has extras) } to com.xiaomi.discover/com.xiaomi.market.data.MyPackageMonitor
+32261:10-25 00:22:49.502  2078  2093 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000011 (has extras) } to com.xiaomi.glgm/.data.MyPackageMonitor
+32262:10-25 00:22:49.503  2078  2093 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000011 (has extras) } to com.xiaomi.mipicks/com.xiaomi.market.data.MyPackageMonitor
+32288:10-25 00:22:51.414  2078  2078 I ConditionProviders: Disallowing condition provider com.android.todolist
+32306:10-25 00:22:52.135  2078  3688 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000011 (has extras) } to com.xiaomi.providers.appindex/.PackageChangeReceiver
+32315:10-25 00:22:52.400  2078  2093 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000011 (has extras) } to com.xiaomi.xmsf/.pushcontrol.PkgUninstallReceiver
+32316:10-25 00:22:52.400  2078  2093 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000011 (has extras) } to com.xiaomi.xmsf/com.xiaomi.push.service.receivers.PkgUninstallReceiver
+32352:10-25 00:22:53.475  2078  2093 W XSpaceManagerService: update XSpace App: packageName:com.android.todolist, user:UserHandle{0}, action:android.intent.action.PACKAGE_REMOVED
+34343:10-25 00:48:56.659  2078  2107 I InstallationStatistic: com.android.todolist|null|6423|281|22|4020|1553|0
+34345:10-25 00:48:56.662  2078  2107 I com.android.server.pm.PackageManagerServiceInjector: MIUILOG-onPackageInstalled: PackageEvent { mTimeStamp=2021-10-25 00:48:56 mAction=Install mPackageName=com.android.todolist mReturnCode=-15 mReturnMsg=installPackageLI mVersionCode=0 mVersionName=mInstallerPkgName=
+34436:10-25 00:50:13.454  2078  2107 I InstallationStatistic: com.android.todolist|null|3793|253|17|2519|848|0
+34437:10-25 00:50:13.455  2078  2107 I com.android.server.pm.PackageManagerServiceInjector: MIUILOG-onPackageInstalled: PackageEvent { mTimeStamp=2021-10-25 00:50:13 mAction=Install mPackageName=com.android.todolist mReturnCode=-15 mReturnMsg=installPackageLI mVersionCode=0 mVersionName=mInstallerPkgName=
+34771:10-25 00:54:03.519  2078  2107 I InstallationStatistic: com.android.todolist|null|5609|263|29|3566|1352|0
+34772:10-25 00:54:03.544  2078  2107 I com.android.server.pm.PackageManagerServiceInjector: MIUILOG-onPackageInstalled: PackageEvent { mTimeStamp=2021-10-25 00:54:03 mAction=Install mPackageName=com.android.todolist mReturnCode=-15 mReturnMsg=installPackageLI mVersionCode=0 mVersionName=mInstallerPkgName=
+36957:10-25 01:47:18.858  2078  2107 V BackupManagerService: restoreAtInstall pkg=com.android.todolist token=7 restoreSet=0
+36959:10-25 01:47:18.867  2078  2107 I InstallationStatistic: com.android.todolist|null|8510|390|123|5538|1322|0
+36960:10-25 01:47:18.887  2078  2212 I MiuiCompatModePackages: package com.android.todolist updated, removing config
+36961:10-25 01:47:18.892  2078  2093 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000011 (has extras) } to com.lbe.security.miui/com.lbe.security.service.BootReceiver
+36962:10-25 01:47:18.893  2078  2093 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.microsoft.office.excel/com.microsoft.office.notification.SystemBroadcastReceiver
+36964:10-25 01:47:18.902  2078  2093 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.microsoft.office.excel/com.microsoft.aad.adal.ApplicationReceiver
+36967:10-25 01:47:19.062  2078  3722 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000011 (has extras) } to com.android.vending/com.google.android.finsky.packagemanager.impl.PackageMonitorReceiverImpl$RegisteredReceiver
+36968:10-25 01:47:19.070  2078  2093 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000011 (has extras) } to com.facebook.appmanager/com.facebook.oxygen.common.packages.event.manifest.ManifestPackageEventReceiver
+36969:10-25 01:47:19.072  2078  2093 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000011 (has extras) } to com.google.android.gms/.games.chimera.GamesSystemBroadcastReceiverProxy
+36970:10-25 01:47:19.072  2078  2093 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000011 (has extras) } to com.google.android.gms/.gass.chimera.PackageChangeBroadcastReceiver
+36971:10-25 01:47:19.072  2078  2093 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000011 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+36972:10-25 01:47:19.072  2078  2093 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000011 (has extras) } to com.google.android.googlequicksearchbox/com.google.android.apps.gsa.googlequicksearchbox.GelStubAppWatcher
+36973:10-25 01:47:19.073  2078  2093 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000011 (has extras) } to com.miui.audioeffect/com.android.musicfx.Compatibility$Receiver
+36974:10-25 01:47:19.073  2078  2093 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000011 (has extras) } to com.miui.global.packageinstaller/.AppInstalledReceiver
+36975:10-25 01:47:19.073  2078  2093 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000011 (has extras) } to com.xiaomi.discover/com.xiaomi.market.data.MyPackageMonitor
+36976:10-25 01:47:19.074  2078  2093 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000011 (has extras) } to com.xiaomi.glgm/.data.MyPackageMonitor
+36977:10-25 01:47:19.075  2078  2093 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000011 (has extras) } to com.xiaomi.mipicks/com.xiaomi.market.data.MyPackageMonitor
+36986:10-25 01:47:20.234  2078  2278 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000011 (has extras) } to com.xiaomi.providers.appindex/.PackageChangeReceiver
+37032:10-25 01:47:23.684  2078  2093 W XSpaceManagerService: update XSpace App: packageName:com.android.todolist, user:UserHandle{0}, action:android.intent.action.PACKAGE_ADDED
+37942:10-25 02:04:22.333 21240 21240 I Timeline: Timeline: Activity_launch_request time:55051746 intent:Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.todolist/.MainActivity bnds=[841,930][1009,1098] (has extras) }
+37943:10-25 02:04:22.339  2078  3717 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.todolist/.MainActivity bnds=[841,930][1009,1098] (has extras)} from uid 10031
+37944:10-25 02:04:22.511  2078  2095 D Boost   : hostingType=activity, hostingName=com.android.todolist/.MainActivity, callerPackage=com.miui.home, isSystem=true, isBoostNeeded=false.
+37945:10-25 02:04:22.513  2078  2095 I ActivityManager: Start proc 6103:com.android.todolist/u0a272 for activity com.android.todolist/.MainActivity caller=com.miui.home
+37954:10-25 02:04:23.677  6103  6103 W Looper  : Slow Looper main: Activity com.android.todolist/.MainActivity is 415ms late (wall=428ms running=0ms ClientTransaction{ callbacks=[android.app.servertransaction.LaunchActivityItem] lifecycleRequest=android.app.servertransaction.ResumeActivityItem }) because of 1 msg, msg 1 took 505ms (late=1ms h=android.app.ActivityThread$H w=110)
+37955:10-25 02:04:24.037  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{b75fada u0 com.android.todolist/.MainActivity t44050} time:55053450
+37990:10-25 02:04:29.939  2078  3322 D PerfShielderService: com.android.todolist|com.android.todolist/com.android.todolist.MainActivity|428|55058005996376|116|0|3
+37991:10-25 02:04:29.941  3316  5207 W MiuiPerfServiceClient: interceptAndQueuing:6103|com.android.todolist|428|116|unknown|null|com.android.todolist/com.android.todolist.MainActivity|55058005996376|Slow main thread|3
+37996:10-25 02:04:36.446  2078  2107 D com.android.server.pm.PackageManagerServiceInjector: FirstUseActivity packageName = com.android.todolist is compiled using filter speed-profile, success = true
+40414:10-25 02:44:34.286 21240 21240 I Timeline: Timeline: Activity_launch_request time:57463698 intent:Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.todolist/.MainActivity bnds=[841,930][1009,1098] (has extras) }
+40415:10-25 02:44:34.291  2078  3703 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.todolist/.MainActivity bnds=[841,930][1009,1098] (has extras)} from uid 10031
+40426:10-25 02:44:35.000  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{b75fada u0 com.android.todolist/.MainActivity t44050} time:57464412
+40439:10-25 02:45:08.102  6103  6103 I Timeline: Timeline: Activity_launch_request time:57497514 intent:Intent { cmp=com.android.todolist/.ListActivity (has extras) }
+40440:10-25 02:45:08.107  2078  4598 I ActivityManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10272
+40441:10-25 02:45:08.138  2078  4598 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@b7656c7
+40452:10-25 02:45:08.903  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{889065c u0 com.android.todolist/.ListActivity t44050} time:57498316
+40454:10-25 02:45:10.120  2078  4598 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@dc886cb
+41122:10-25 02:53:30.529 21240 21240 I Timeline: Timeline: Activity_launch_request time:57999941 intent:Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.todolist/.MainActivity bnds=[841,930][1009,1098] (has extras) }
+41123:10-25 02:53:30.537  2078  3686 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.todolist/.MainActivity bnds=[841,930][1009,1098] (has extras)} from uid 10031
+41131:10-25 02:53:30.991  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{889065c u0 com.android.todolist/.ListActivity t44050} time:58000403
+41134:10-25 02:53:36.094  2078  3728 D PerfShielderService: com.android.todolist|com.android.todolist/com.android.todolist.ListActivity|129|58005228358845|124|5|2
+41135:10-25 02:53:36.095  3316  5207 W MiuiPerfServiceClient: interceptAndQueuing:6103|com.android.todolist|129|124|unknown|null|com.android.todolist/com.android.todolist.ListActivity|58005228358845|Slow issue draw commands|2
+41144:10-25 02:53:52.992  6103  6103 I Timeline: Timeline: Activity_launch_request time:58022404 intent:Intent { cmp=com.android.todolist/.MainActivity }
+41145:10-25 02:53:53.001  2078  2089 I ActivityManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10272
+41151:10-25 02:53:53.739  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{7e66955 u0 com.android.todolist/.MainActivity t44050} time:58023151
+41260:10-25 02:55:28.926  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{7e66955 u0 com.android.todolist/.MainActivity t44050} time:58118338
+41280:10-25 02:55:56.642  6103  6103 I Timeline: Timeline: Activity_launch_request time:58146054 intent:Intent { cmp=com.android.todolist/.Info }
+41281:10-25 02:55:56.648  2078  2278 I ActivityManager: START u0 {cmp=com.android.todolist/.Info} from uid 10272
+41287:10-25 02:55:57.372  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{e151279 u0 com.android.todolist/.Info t44050} time:58146784
+41296:10-25 02:56:00.838  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{7e66955 u0 com.android.todolist/.MainActivity t44050} time:58150251
+41553:10-25 02:59:32.380  2078  2484 I ProcessManager: SwipeUpClean: kill com.android.todolist Adj=900 State=17
+41554:10-25 02:59:32.380  2078  2484 I ActivityManager: Killing 6103:com.android.todolist/u0a272 (adj 900): SwipeUpClean
+41555:10-25 02:59:32.451  2078  3685 I WindowManager: WIN DEATH: Window{b96b3a9 u0 com.android.todolist/com.android.todolist.MainActivity}
+41556:10-25 02:59:32.458  2078  3692 I WindowManager: WIN DEATH: Window{3137337 u0 com.android.todolist/com.android.todolist.MainActivity}
+41579:10-25 02:59:35.364 21240 21240 I Timeline: Timeline: Activity_launch_request time:58364776 intent:Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.todolist/.MainActivity bnds=[841,930][1009,1098] (has extras) }
+41580:10-25 02:59:35.372  2078  3692 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.todolist/.MainActivity bnds=[841,930][1009,1098] (has extras)} from uid 10031
+41581:10-25 02:59:35.483  2078  2095 D Boost   : hostingType=activity, hostingName=com.android.todolist/.MainActivity, callerPackage=com.miui.home, isSystem=true, isBoostNeeded=false.
+41582:10-25 02:59:35.486  2078  2095 I ActivityManager: Start proc 10724:com.android.todolist/u0a272 for activity com.android.todolist/.MainActivity caller=com.miui.home
+41590:10-25 02:59:36.334  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{cb4f953 u0 com.android.todolist/.MainActivity t44054} time:58365746
+41604:10-25 03:00:03.128 10724 10724 I Timeline: Timeline: Activity_launch_request time:58392540 intent:Intent { cmp=com.android.todolist/.About }
+41605:10-25 03:00:03.133  2078  3707 I ActivityManager: START u0 {cmp=com.android.todolist/.About} from uid 10272
+41612:10-25 03:00:03.895  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{3c3b7a9 u0 com.android.todolist/.About t44054} time:58393307
+41622:10-25 03:00:09.288  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{cb4f953 u0 com.android.todolist/.MainActivity t44054} time:58398701
+41752:10-25 03:01:30.491 21240 21240 I Timeline: Timeline: Activity_launch_request time:58479903 intent:Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.todolist/.MainActivity bnds=[841,930][1009,1098] (has extras) }
+41753:10-25 03:01:30.495  2078  8167 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.todolist/.MainActivity bnds=[841,930][1009,1098] (has extras)} from uid 10031
+41761:10-25 03:01:30.887  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{df6c9da u0 com.android.todolist/.MainActivity t44055} time:58480300
+41763:10-25 03:01:34.513 10724 10724 I Timeline: Timeline: Activity_launch_request time:58483925 intent:Intent { cmp=com.android.todolist/.Info }
+41764:10-25 03:01:34.519  2078  2645 I ActivityManager: START u0 {cmp=com.android.todolist/.Info} from uid 10272
+41770:10-25 03:01:35.240  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{fe2631d u0 com.android.todolist/.Info t44055} time:58484652
+41779:10-25 03:01:36.941  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{df6c9da u0 com.android.todolist/.MainActivity t44055} time:58486353
+41781:10-25 03:01:38.191 10724 10724 I Timeline: Timeline: Activity_launch_request time:58487603 intent:Intent { cmp=com.android.todolist/.ListActivity (has extras) }
+41782:10-25 03:01:38.195  2078  2288 I ActivityManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10272
+41792:10-25 03:01:38.889  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{9bf492 u0 com.android.todolist/.ListActivity t44055} time:58488301
+41794:10-25 03:01:40.223  2078  2645 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@9644e3e
+41803:10-25 03:01:45.008  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{df6c9da u0 com.android.todolist/.MainActivity t44055} time:58494420
+41806:10-25 03:01:46.326 10724 10724 I Timeline: Timeline: Activity_launch_request time:58495738 intent:Intent { cmp=com.android.todolist/.ListActivity (has extras) }
+41807:10-25 03:01:46.332  2078  2645 I ActivityManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10272
+41818:10-25 03:01:47.026  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{2d1b38f u0 com.android.todolist/.ListActivity t44055} time:58496439
+41819:10-25 03:01:48.343  2078  2484 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@da1f27c
+41832:10-25 03:01:54.127  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{df6c9da u0 com.android.todolist/.MainActivity t44055} time:58503540
+41833:10-25 03:01:55.203 10724 10724 I Timeline: Timeline: Activity_launch_request time:58504615 intent:Intent { cmp=com.android.todolist/.ListActivity (has extras) }
+41834:10-25 03:01:55.212  2078  2140 I ActivityManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10272
+41846:10-25 03:01:55.930  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{fc4c9f1 u0 com.android.todolist/.ListActivity t44055} time:58505342
+41847:10-25 03:01:57.234  2078  3722 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@6204855
+41854:10-25 03:01:58.128  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{df6c9da u0 com.android.todolist/.MainActivity t44055} time:58507541
+41860:10-25 03:02:07.018 10724 10724 I Timeline: Timeline: Activity_launch_request time:58516430 intent:Intent { cmp=com.android.todolist/.ListActivity (has extras) }
+41861:10-25 03:02:07.023  2078  3685 I ActivityManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10272
+41871:10-25 03:02:07.726  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{987272 u0 com.android.todolist/.ListActivity t44055} time:58517138
+41880:10-25 03:02:08.978  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{df6c9da u0 com.android.todolist/.MainActivity t44055} time:58518390
+41882:10-25 03:02:09.048  2078  3685 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@bd0cfcc
+41883:10-25 03:02:09.885 10724 10724 I Timeline: Timeline: Activity_launch_request time:58519297 intent:Intent { cmp=com.android.todolist/.ListActivity (has extras) }
+41884:10-25 03:02:09.891  2078  3685 I ActivityManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10272
+41896:10-25 03:02:10.625  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{c297a91 u0 com.android.todolist/.ListActivity t44055} time:58520037
+41904:10-25 03:02:11.902  2078  2140 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@607f130
+41905:10-25 03:02:12.160  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{df6c9da u0 com.android.todolist/.MainActivity t44055} time:58521571
+41907:10-25 03:02:12.317 10724 10724 I Timeline: Timeline: Activity_launch_request time:58521729 intent:Intent { cmp=com.android.todolist/.ListActivity (has extras) }
+41908:10-25 03:02:12.321  2078  3685 I ActivityManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10272
+41918:10-25 03:02:13.027  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{ef7a8eb u0 com.android.todolist/.ListActivity t44055} time:58522439
+41921:10-25 03:02:14.344  2078  2140 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@d61a445
+41934:10-25 03:02:20.576  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{df6c9da u0 com.android.todolist/.MainActivity t44055} time:58529988
+41936:10-25 03:02:22.603 10724 10724 I Timeline: Timeline: Activity_launch_request time:58532015 intent:Intent { cmp=com.android.todolist/.ListActivity (has extras) }
+41937:10-25 03:02:22.611  2078  3722 I ActivityManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10272
+41948:10-25 03:02:23.309  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{b349b31 u0 com.android.todolist/.ListActivity t44055} time:58532721
+41950:10-25 03:02:24.623  2078  2090 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@e377376
+41953:10-25 03:02:26.048 10724 10724 I Timeline: Timeline: Activity_launch_request time:58535460 intent:Intent { cmp=com.android.todolist/.MainActivity }
+41954:10-25 03:02:26.053  2078  2090 I ActivityManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10272
+41962:10-25 03:02:26.759  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{da1724d u0 com.android.todolist/.MainActivity t44055} time:58536172
+41966:10-25 03:02:28.095 10724 10724 I Timeline: Timeline: Activity_launch_request time:58537508 intent:Intent { cmp=com.android.todolist/.ListActivity (has extras) }
+41967:10-25 03:02:28.102  2078  2090 I ActivityManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10272
+41977:10-25 03:02:28.778  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{918a180 u0 com.android.todolist/.ListActivity t44055} time:58538190
+41979:10-25 03:02:30.118  2078  2090 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@3793074
+41996:10-25 03:02:39.627  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{da1724d u0 com.android.todolist/.MainActivity t44055} time:58549039
+42006:10-25 03:02:43.078  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{df6c9da u0 com.android.todolist/.MainActivity t44055} time:58552490
+42155:10-25 03:05:26.709  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{df6c9da u0 com.android.todolist/.MainActivity t44055} time:58716121
+42158:10-25 03:05:29.175 10724 10724 I Timeline: Timeline: Activity_launch_request time:58718587 intent:Intent { cmp=com.android.todolist/.ListActivity (has extras) }
+42159:10-25 03:05:29.179  2078  2484 I ActivityManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10272
+42169:10-25 03:05:29.925  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{2c8f0f8 u0 com.android.todolist/.ListActivity t44055} time:58719338
+42172:10-25 03:05:31.257  2078  3722 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@2d04b58
+42181:10-25 03:05:37.173  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{df6c9da u0 com.android.todolist/.MainActivity t44055} time:58726586
+42184:10-25 03:05:40.919 10724 10724 I Timeline: Timeline: Activity_launch_request time:58730331 intent:Intent { cmp=com.android.todolist/.ListActivity (has extras) }
+42185:10-25 03:05:40.926  2078  3685 I ActivityManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10272
+42195:10-25 03:05:41.629  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{6d8cfc9 u0 com.android.todolist/.ListActivity t44055} time:58731041
+42198:10-25 03:05:42.937  2078  3685 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@bc62cad
+42202:10-25 03:05:50.170  2078  2484 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@17571a8
+42210:10-25 03:05:50.876  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{df6c9da u0 com.android.todolist/.MainActivity t44055} time:58740289
+42214:10-25 03:05:53.269 10724 10724 I Timeline: Timeline: Activity_launch_request time:58742681 intent:Intent { cmp=com.android.todolist/.ListActivity (has extras) }
+42215:10-25 03:05:53.274  2078  2484 I ActivityManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10272
+42226:10-25 03:05:53.977  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{fbc94d8 u0 com.android.todolist/.ListActivity t44055} time:58743389
+42228:10-25 03:05:55.293  2078  2090 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@de2cb11
+42237:10-25 03:05:59.042  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{df6c9da u0 com.android.todolist/.MainActivity t44055} time:58748454
+42313:10-25 03:07:24.070  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{df6c9da u0 com.android.todolist/.MainActivity t44055} time:58833482
+42315:10-25 03:07:25.140 10724 10724 I Timeline: Timeline: Activity_launch_request time:58834552 intent:Intent { cmp=com.android.todolist/.ListActivity (has extras) }
+42316:10-25 03:07:25.143  2078  6947 I ActivityManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10272
+42326:10-25 03:07:25.834  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{71e3ea3 u0 com.android.todolist/.ListActivity t44055} time:58835246
+42330:10-25 03:07:27.168  2078  2090 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@997ca83
+42338:10-25 03:07:29.886  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{df6c9da u0 com.android.todolist/.MainActivity t44055} time:58839298
+42347:10-25 03:07:53.471 10724 10724 I Timeline: Timeline: Activity_launch_request time:58862883 intent:Intent { cmp=com.android.todolist/.ListActivity (has extras) }
+42348:10-25 03:07:53.477  2078  6947 I ActivityManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10272
+42358:10-25 03:07:54.187  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{2cc2acf u0 com.android.todolist/.ListActivity t44055} time:58863599
+42361:10-25 03:07:55.489  2078  6947 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@689e489
+42371:10-25 03:07:57.034  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{df6c9da u0 com.android.todolist/.MainActivity t44055} time:58866446
+42379:10-25 03:08:19.586 10724 10724 I Timeline: Timeline: Activity_launch_request time:58888999 intent:Intent { cmp=com.android.todolist/.ListActivity (has extras) }
+42380:10-25 03:08:19.592  2078  3712 I ActivityManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10272
+42390:10-25 03:08:20.286  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{6e478c6 u0 com.android.todolist/.ListActivity t44055} time:58889698
+42393:10-25 03:08:21.606  2078  3712 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@b56a5a
+42403:10-25 03:08:25.855  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{df6c9da u0 com.android.todolist/.MainActivity t44055} time:58895267
+42486:10-25 03:10:01.198  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{df6c9da u0 com.android.todolist/.MainActivity t44055} time:58990610
+42488:10-25 03:10:04.581 10724 10724 I Timeline: Timeline: Activity_launch_request time:58993993 intent:Intent { cmp=com.android.todolist/.ListActivity (has extras) }
+42489:10-25 03:10:04.588  2078  2090 I ActivityManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10272
+42490:10-25 03:10:04.613  2078  2090 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@6273eb4
+42500:10-25 03:10:05.244  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{9a441fa u0 com.android.todolist/.ListActivity t44055} time:58994656
+42505:10-25 03:10:06.597  2078  2090 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@fe94881
+42517:10-25 03:10:10.227  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{df6c9da u0 com.android.todolist/.MainActivity t44055} time:58999639
+42625:10-25 03:11:34.554  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{df6c9da u0 com.android.todolist/.MainActivity t44055} time:59083966
+42628:10-25 03:11:39.459 10724 10724 I Timeline: Timeline: Activity_launch_request time:59088871 intent:Intent { cmp=com.android.todolist/.ListActivity (has extras) }
+42629:10-25 03:11:39.467  2078  3722 I ActivityManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10272
+42639:10-25 03:11:40.154  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{4642783 u0 com.android.todolist/.ListActivity t44055} time:59089566
+42647:10-25 03:11:41.085  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{df6c9da u0 com.android.todolist/.MainActivity t44055} time:59090497
+42650:10-25 03:11:41.475  2078  2484 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@a83acd5
+42985:10-25 03:15:25.104  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{df6c9da u0 com.android.todolist/.MainActivity t44055} time:59314516
+42987:10-25 03:15:26.102 10724 10724 I Timeline: Timeline: Activity_launch_request time:59315514 intent:Intent { cmp=com.android.todolist/.ListActivity (has extras) }
+42988:10-25 03:15:26.110  2078  3699 I ActivityManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10272
+42999:10-25 03:15:26.820  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{4004853 u0 com.android.todolist/.ListActivity t44055} time:59316232
+43003:10-25 03:15:28.120  2078  3699 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@6c7b84
+43011:10-25 03:15:29.968  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{df6c9da u0 com.android.todolist/.MainActivity t44055} time:59319381
+43013:10-25 03:15:30.392 10724 10724 I Timeline: Timeline: Activity_launch_request time:59319804 intent:Intent { cmp=com.android.todolist/.ListActivity (has extras) }
+43014:10-25 03:15:30.398  2078  3630 I ActivityManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10272
+43024:10-25 03:15:31.070  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{cd5bd52 u0 com.android.todolist/.ListActivity t44055} time:59320482
+43033:10-25 03:15:31.869  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{df6c9da u0 com.android.todolist/.MainActivity t44055} time:59321281
+43035:10-25 03:15:31.997 10724 10724 I Timeline: Timeline: Activity_launch_request time:59321409 intent:Intent { cmp=com.android.todolist/.ListActivity (has extras) }
+43036:10-25 03:15:32.003  2078  3630 I ActivityManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10272
+43037:10-25 03:15:32.028  2078  3630 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@bdf007b
+43047:10-25 03:15:32.685  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{f9519b9 u0 com.android.todolist/.ListActivity t44055} time:59322098
+43055:10-25 03:15:33.335  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{df6c9da u0 com.android.todolist/.MainActivity t44055} time:59322747
+43058:10-25 03:15:34.012  2078  3728 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@81d77d3
+43130:10-25 03:16:26.229  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{df6c9da u0 com.android.todolist/.MainActivity t44055} time:59375641
+43131:10-25 03:16:26.591 10724 10724 I Timeline: Timeline: Activity_launch_request time:59376003 intent:Intent { cmp=com.android.todolist/.ListActivity (has extras) }
+43132:10-25 03:16:26.595  2078  3712 I ActivityManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10272
+43144:10-25 03:16:27.307  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{ccad9b6 u0 com.android.todolist/.ListActivity t44055} time:59376719
+43152:10-25 03:16:28.208  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{df6c9da u0 com.android.todolist/.MainActivity t44055} time:59377620
+43154:10-25 03:16:28.625  2078  3719 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@7db64dd
+43157:10-25 03:16:30.099 10724 10724 I Timeline: Timeline: Activity_launch_request time:59379511 intent:Intent { cmp=com.android.todolist/.ListActivity (has extras) }
+43158:10-25 03:16:30.107  2078  3712 I ActivityManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10272
+43169:10-25 03:16:30.762  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{1469a02 u0 com.android.todolist/.ListActivity t44055} time:59380174
+43177:10-25 03:16:31.493  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{df6c9da u0 com.android.todolist/.MainActivity t44055} time:59380905
+43180:10-25 03:16:32.117  2078  3712 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@2161f99
+43199:10-25 03:17:12.002 10724 10724 I Timeline: Timeline: Activity_launch_request time:59421414 intent:Intent { cmp=com.android.todolist/.ListActivity (has extras) }
+43200:10-25 03:17:12.010  2078  3720 I ActivityManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10272
+43210:10-25 03:17:12.695  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{7f2e1e6 u0 com.android.todolist/.ListActivity t44055} time:59422105
+43220:10-25 03:17:14.018  2078  3720 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@81200ef
+43316:10-25 03:18:44.743  2078  3688 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10300000 cmp=com.android.todolist/.MainActivity (has extras)} from uid 10272
+43324:10-25 03:18:45.198  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{72b6ce6 u0 com.android.todolist/.MainActivity t44055} time:59514611
+43355:10-25 03:18:51.220  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{72b6ce6 u0 com.android.todolist/.MainActivity t44055} time:59520632
+43438:10-25 03:20:00.305  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{72b6ce6 u0 com.android.todolist/.MainActivity t44055} time:59589717
+43441:10-25 03:20:02.741  2078  3699 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@b9bfcfb
+43446:10-25 03:20:15.517 10724 10724 I Timeline: Timeline: Activity_launch_request time:59604929 intent:Intent { cmp=com.android.todolist/.ListActivity (has extras) }
+43447:10-25 03:20:15.521  2078  3699 I ActivityManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10272
+43448:10-25 03:20:15.554  2078  3699 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@187e8a7
+43458:10-25 03:20:16.205  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{f8652af u0 com.android.todolist/.ListActivity t44055} time:59605617
+43461:10-25 03:20:17.532  2078  3688 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@5214b25
+43469:10-25 03:20:18.440  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{72b6ce6 u0 com.android.todolist/.MainActivity t44055} time:59607852
+44145:10-25 03:22:10.523   743  2703 W SurfaceFlinger: Attempting to set client state on removed layer: thumbnail anim: AppWindowToken{9ba1cd4 token=Token{88fa227 ActivityRecord{72b6ce6 u0 com.android.todolist/.MainActivity t44055}}}#0
+44146:10-25 03:22:10.523  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{72b6ce6 u0 com.android.todolist/.MainActivity t44055} time:59719936
+44147:10-25 03:22:10.523   743  2703 W SurfaceFlinger: Attempting to destroy on removed layer: thumbnail anim: AppWindowToken{9ba1cd4 token=Token{88fa227 ActivityRecord{72b6ce6 u0 com.android.todolist/.MainActivity t44055}}}#0
+44150:10-25 03:22:11.015   743   743 D SurfaceFlinger: duplicate layer name: changing com.android.todolist/com.android.todolist.MainActivity to com.android.todolist/com.android.todolist.MainActivity#1
+44153:10-25 03:22:11.196   743   743 D SurfaceFlinger: duplicate layer name: changing Surface(name=cc280dd com.android.todolist/com.android.todolist.MainActivity)/@0x701e323 - animation-leash to Surface(name=cc280dd com.android.todolist/com.android.todolist.MainActivity)/@0x701e323 - animation-leash#1
+44158:10-25 03:22:11.356   743  2164 W SurfaceFlinger: Attempting to set client state on removed layer: com.android.todolist/com.android.todolist.MainActivity#1
+44159:10-25 03:22:11.356   743  2164 W SurfaceFlinger: Attempting to destroy on removed layer: com.android.todolist/com.android.todolist.MainActivity#1
+44170:10-25 03:22:11.861   743   743 D SurfaceFlinger: duplicate layer name: changing com.android.todolist/com.android.todolist.MainActivity to com.android.todolist/com.android.todolist.MainActivity#1
+44173:10-25 03:22:11.982   743   743 D SurfaceFlinger: duplicate layer name: changing Surface(name=8fc4150 com.android.todolist/com.android.todolist.MainActivity)/@0x73d004e - animation-leash to Surface(name=8fc4150 com.android.todolist/com.android.todolist.MainActivity)/@0x73d004e - animation-leash#1
+44181:10-25 03:22:12.141   743  2706 W SurfaceFlinger: Attempting to set client state on removed layer: com.android.todolist/com.android.todolist.MainActivity#1
+44182:10-25 03:22:12.141   743  2706 W SurfaceFlinger: Attempting to destroy on removed layer: com.android.todolist/com.android.todolist.MainActivity#1
+44246:10-25 03:22:12.465   743   743 D SurfaceFlinger: duplicate layer name: changing com.android.todolist/com.android.todolist.MainActivity to com.android.todolist/com.android.todolist.MainActivity#1
+44250:10-25 03:22:12.715   743   743 D SurfaceFlinger: duplicate layer name: changing Surface(name=fec385f com.android.todolist/com.android.todolist.MainActivity)/@0xfc65b75 - animation-leash to Surface(name=fec385f com.android.todolist/com.android.todolist.MainActivity)/@0xfc65b75 - animation-leash#1
+44254:10-25 03:22:12.890   743  2164 W SurfaceFlinger: Attempting to set client state on removed layer: com.android.todolist/com.android.todolist.MainActivity#1
+44255:10-25 03:22:12.890   743  2164 W SurfaceFlinger: Attempting to destroy on removed layer: com.android.todolist/com.android.todolist.MainActivity#1
+44263:10-25 03:22:14.170 10724 10724 I Timeline: Timeline: Activity_launch_request time:59723582 intent:Intent { cmp=com.android.todolist/.ListActivity (has extras) }
+44264:10-25 03:22:14.175  8329 12494 E AD-PLUGIN-SplashController: This package is fore ground , skip splash : com.android.todolist
+44265:10-25 03:22:14.175  2078  3712 I ActivityManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10272
+44267:10-25 03:22:14.198 10724 10724 I Toast   : Show toast from OpPackageName:com.android.todolist, PackageName:com.android.todolist
+44297:10-25 03:22:14.859  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{248b96b u0 com.android.todolist/.ListActivity t44055} time:59724271
+44335:10-25 03:22:16.186  2078  3712 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@e65492f
+44374:10-25 03:22:30.423   743  2706 W SurfaceFlinger: Attempting to set client state on removed layer: thumbnail anim: AppWindowToken{ef08161 token=Token{537bcc8 ActivityRecord{248b96b u0 com.android.todolist/.ListActivity t44055}}}#0
+44375:10-25 03:22:30.423   743  2706 W SurfaceFlinger: Attempting to set client state on removed layer: com.android.todolist/com.android.todolist.ListActivity#0
+44376:10-25 03:22:30.423   743  2706 W SurfaceFlinger: Attempting to destroy on removed layer: thumbnail anim: AppWindowToken{ef08161 token=Token{537bcc8 ActivityRecord{248b96b u0 com.android.todolist/.ListActivity t44055}}}#0
+44377:10-25 03:22:30.423   743  2706 W SurfaceFlinger: Attempting to destroy on removed layer: com.android.todolist/com.android.todolist.ListActivity#0
+45484:10-25 03:23:39.234  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{248b96b u0 com.android.todolist/.ListActivity t44055} time:59808647
+45610:10-25 03:23:44.100 19744 19744 I AndroidIME: AbstractIme.onActivate():88 LatinIme.onActivate() : EditorInfo = Package = com.android.todolist : Type = Text : Learning = Enable : Suggestion = Show : AutoCorrection = Enable : Microphone = Show : NoPersonalizedLearning = Disable : AutoStartVoiceInput = Disable : AutoStartEmojiInput = Disable : SimulateDeviceLocked = False : imeActionName = DONE : imeOptions = 6 : privateImeOptions = null, IncognitoMode = false, DeviceLocked = false
+45654:10-25 03:23:49.612 10724 10724 I Timeline: Timeline: Activity_launch_request time:59819024 intent:Intent { cmp=com.android.todolist/.MainActivity }
+45655:10-25 03:23:49.616  8329 12573 E AD-PLUGIN-SplashController: This package is fore ground , skip splash : com.android.todolist
+45656:10-25 03:23:49.617  2078  2645 I ActivityManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10272
+45666:10-25 03:23:50.295  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{ae2e993 u0 com.android.todolist/.MainActivity t44055} time:59819708
+45797:10-25 03:25:00.040 21781  9395 I ProcessMonitor: onForegroundInfoChanged: ForegroundInfo{mForegroundPackageName='com.miui.home', mForegroundUid=10031, mForegroundPid=21240, mLastForegroundPackageName='com.android.todolist', mLastForegroundUid=10272, mLastForegroundPid=10724, mMultiWindowForegroundPackageName='null', mMultiWindowForegroundUid=-1, mFlags=0}
+45798:10-25 03:25:00.040 21781  9395 I GameBoosterService: onForegroundInfoChanged: Cur=com.miui.home	 last=com.android.todolist
+45799:10-25 03:25:00.040 21781  9395 D GameBoosterService: onGameStatusChange foreground:ForegroundInfo{mForegroundPackageName='com.miui.home', mForegroundUid=10031, mForegroundPid=21240, mLastForegroundPackageName='com.android.todolist', mLastForegroundUid=10272, mLastForegroundPid=10724, mMultiWindowForegroundPackageName='null', mMultiWindowForegroundUid=-1, mFlags=0}
+48293:10-25 03:27:51.569  2078  3728 D ActivityTrigger: activityResumeTrigger: The activity in ApplicationInfo{b7d36eb com.android.todolist} is now in focus and seems to be in full-screen mode
+48294:10-25 03:27:51.569  2078  3728 E ActivityTrigger: activityResumeTrigger: not whiteListedcom.android.todolist/com.android.todolist.MainActivity/1
+48314:10-25 03:27:51.583  2078  2645 D ActivityTrigger: activityResumeTrigger: The activity in ApplicationInfo{b7d36eb com.android.todolist} is now in focus and seems to be in full-screen mode
+48315:10-25 03:27:51.583  2078  2645 E ActivityTrigger: activityResumeTrigger: not whiteListedcom.android.todolist/com.android.todolist.MainActivity/1
+48318:10-25 03:27:51.589 21781 20484 I ProcessMonitor: onForegroundInfoChanged: ForegroundInfo{mForegroundPackageName='com.android.todolist', mForegroundUid=10272, mForegroundPid=10724, mLastForegroundPackageName='com.android.systemui', mLastForegroundUid=1000, mLastForegroundPid=2292, mMultiWindowForegroundPackageName='null', mMultiWindowForegroundUid=-1, mFlags=0}
+48319:10-25 03:27:51.589 21781 20484 I GameBoosterService: onForegroundInfoChanged: Cur=com.android.todolist	 last=com.android.systemui
+48320:10-25 03:27:51.590 21781 20484 D GameBoosterService: onGameStatusChange foreground:ForegroundInfo{mForegroundPackageName='com.android.todolist', mForegroundUid=10272, mForegroundPid=10724, mLastForegroundPackageName='com.android.systemui', mLastForegroundUid=1000, mLastForegroundPid=2292, mMultiWindowForegroundPackageName='null', mMultiWindowForegroundUid=-1, mFlags=0}
+48373:10-25 03:27:52.047  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{ae2e993 u0 com.android.todolist/.MainActivity t44055} time:60061459
+48374:10-25 03:27:52.047   743   819 W SurfaceFlinger: Attempting to set client state on removed layer: thumbnail anim: AppWindowToken{7651c9 token=Token{7a6dd0 ActivityRecord{ae2e993 u0 com.android.todolist/.MainActivity t44055}}}#0
+48375:10-25 03:27:52.047   743   819 W SurfaceFlinger: Attempting to destroy on removed layer: thumbnail anim: AppWindowToken{7651c9 token=Token{7a6dd0 ActivityRecord{ae2e993 u0 com.android.todolist/.MainActivity t44055}}}#0
+48412:10-25 03:27:58.405 10724 10724 I Timeline: Timeline: Activity_launch_request time:60067818 intent:Intent { cmp=com.android.todolist/.ListActivity (has extras) }
+48413:10-25 03:27:58.409  8329 12912 E AD-PLUGIN-SplashController: This package is fore ground , skip splash : com.android.todolist
+48414:10-25 03:27:58.414  2078  3688 I ActivityManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10272
+48415:10-25 03:27:58.419  2078  3688 D ActivityTrigger: activityStartTrigger: Activity is Triggerred in full screen ApplicationInfo{b7d36eb com.android.todolist}
+48416:10-25 03:27:58.419  2078  3688 E ActivityTrigger: activityStartTrigger: not whiteListedcom.android.todolist/com.android.todolist.ListActivity/1
+48420:10-25 03:27:58.421  2078  3688 D ActivityTrigger: activityResumeTrigger: The activity in ApplicationInfo{b7d36eb com.android.todolist} is now in focus and seems to be in full-screen mode
+48421:10-25 03:27:58.421  2078  3688 E ActivityTrigger: activityResumeTrigger: not whiteListedcom.android.todolist/com.android.todolist.ListActivity/1
+48423:10-25 03:27:58.437 10724 10724 I Toast   : Show toast from OpPackageName:com.android.todolist, PackageName:com.android.todolist
+48424:10-25 03:27:58.440  2078  3719 D ActivityTrigger: activityResumeTrigger: The activity in ApplicationInfo{b7d36eb com.android.todolist} is now in focus and seems to be in full-screen mode
+48425:10-25 03:27:58.440  2078  3719 E ActivityTrigger: activityResumeTrigger: not whiteListedcom.android.todolist/com.android.todolist.ListActivity/1
+48442:10-25 03:27:58.598  2078  2101 I ActivityManager: Displayed com.android.todolist/.ListActivity: +150ms
+48443:10-25 03:27:59.082  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{c5d501b u0 com.android.todolist/.ListActivity t44055} time:60068495
+48460:10-25 03:28:00.420  2078  3719 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@74cf7fb
+48480:10-25 03:28:10.548  2078  3688 D ActivityTrigger: activityResumeTrigger: The activity in ApplicationInfo{b7d36eb com.android.todolist} is now in focus and seems to be in full-screen mode
+48481:10-25 03:28:10.548  2078  3688 E ActivityTrigger: activityResumeTrigger: not whiteListedcom.android.todolist/com.android.todolist.MainActivity/1
+48491:10-25 03:28:10.743  2078  3712 D ActivityTrigger: activityResumeTrigger: The activity in ApplicationInfo{b7d36eb com.android.todolist} is now in focus and seems to be in full-screen mode
+48492:10-25 03:28:10.743  2078  3712 E ActivityTrigger: activityResumeTrigger: not whiteListedcom.android.todolist/com.android.todolist.MainActivity/1
+48495:10-25 03:28:10.764   743   743 D SurfaceFlinger: duplicate layer name: changing com.android.todolist/com.android.todolist.MainActivity to com.android.todolist/com.android.todolist.MainActivity#1
+48497:10-25 03:28:10.799   743   743 D SurfaceFlinger: duplicate layer name: changing Surface(name=AppWindowToken{7651c9 token=Token{7a6dd0 ActivityRecord{ae2e993 u0 com.android.todolist/.MainActivity t44055}}})/@0xf1e26e8 - animation-leash to Surface(name=AppWindowToken{7651c9 token=Token{7a6dd0 ActivityRecord{ae2e993 u0 com.android.todolist/.MainActivity t44055}}})/@0xf1e26e8 - animation-leash#1
+48501:10-25 03:28:11.315  2078  2101 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{72b6ce6 u0 com.android.todolist/.MainActivity t44055} time:60080728
+48527:10-25 03:28:12.624 21781 20484 I ProcessMonitor: onForegroundInfoChanged: ForegroundInfo{mForegroundPackageName='com.miui.home', mForegroundUid=10031, mForegroundPid=21240, mLastForegroundPackageName='com.android.todolist', mLastForegroundUid=10272, mLastForegroundPid=10724, mMultiWindowForegroundPackageName='null', mMultiWindowForegroundUid=-1, mFlags=0}
+48528:10-25 03:28:12.624 21781 20484 I GameBoosterService: onForegroundInfoChanged: Cur=com.miui.home	 last=com.android.todolist
+48529:10-25 03:28:12.625 21781 20484 D GameBoosterService: onGameStatusChange foreground:ForegroundInfo{mForegroundPackageName='com.miui.home', mForegroundUid=10031, mForegroundPid=21240, mLastForegroundPackageName='com.android.todolist', mLastForegroundUid=10272, mLastForegroundPid=10724, mMultiWindowForegroundPackageName='null', mMultiWindowForegroundUid=-1, mFlags=0}
+48899:10-25 03:28:19.711 21240 21240 D Launcher.CellLayout: touch item:ShortcutInfo, id=262, itemType=0, user=UserHandle{0}, mIconType=0, pkgName=com.android.todolist, className=com.android.todolist.MainActivity, screenId=3, container=-100, cellX=3, cellY=3, spanX=1, spanY=1, isLandscapePos=false
+48919:10-25 03:28:19.780 21240 21240 I Timeline: Timeline: Activity_launch_request time:60089192 intent:Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.todolist/.MainActivity bnds=[841,930][1009,1098] (has extras) }
+48920:10-25 03:28:19.785  2078  3688 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.todolist/.MainActivity bnds=[841,930][1009,1098] (has extras)} from uid 10031
+48924:10-25 03:28:19.820  2078  3688 D ActivityTrigger: activityStartTrigger: Activity is Triggerred in full screen ApplicationInfo{b7d36eb com.android.todolist}
+48925:10-25 03:28:19.820  2078  3688 E ActivityTrigger:
