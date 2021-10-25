@@ -18,5 +18,5 @@ adb logcat | findstr -rnw "com.android.todolist"
 adb logcat | findstr -rnw "com.android.todolist" > /Users/marin/OneDrive/Documents/QA_course/ADB/todolist.log
 
 7. Удалить приложение ToDoList из телефона через ADB.
-
+adb uninstall "com.android.todolist"
 
